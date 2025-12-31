@@ -117,5 +117,5 @@ A Chrome extension that tracks time spent on websites and classifies them as pro
 ---
 
 ## 👩‍💻 Author
-**Name:** Asmitha  
+**Name:** Asmitha V  
 **Internship:** CODTECH Full Stack Internship

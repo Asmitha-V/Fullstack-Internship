@@ -109,10 +109,6 @@ A Chrome extension that tracks time spent on websites and classifies them as pro
 6. Browse websites and open the extension popup
 
 
-## ✅ Internship Status
-- All tasks completed successfully
-- Code and screenshots included
-- Ready for evaluation
 
 ---
 
